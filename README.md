@@ -40,7 +40,7 @@ Hi there, I'm **Ramiro Pugh**, a **Software Engineer** from Argenitna 🧉
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=chubutin&show_icons=true&hide_border=true&count_private=true&theme=blueberry&icon_color=fad000" alt="Damian's GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=chubutin&show_icons=true&hide_border=true&count_private=true&theme=blueberry&icon_color=fad000" alt="Ramiro's GitHub Stats">
 
 
 <img src="https://komarev.com/ghpvc/?username=chubutin&label=views&color=blue">
