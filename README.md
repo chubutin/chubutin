@@ -10,7 +10,7 @@
 <br>
 <br>
 
-Hi there, I'm **Damián Bertoni**, a **Software Engineer** from Argenitna 🧉
+Hi there, I'm **Ramiro Pugh**, a **Software Engineer** from Argenitna 🧉
 <br>
 <br>
  
@@ -25,7 +25,7 @@ Hi there, I'm **Damián Bertoni**, a **Software Engineer** from Argenitna 🧉
 - 💬 Ask me about anything 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- 📫 Email me at [damianberto@gmail.com](mailto:damianberto@gmail.com).
+- 📫 Email me at [rampugh@gmail.com](mailto:rampugh@gmail.com).
 
 
 **Languages and Tools:**  
