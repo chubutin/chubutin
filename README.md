@@ -10,7 +10,7 @@
 <br>
 <br>
 
-Hi there, I'm **Ramiro Pugh**, a **Software Engineer** from Argenitna 🧉
+Hi there, I'm **Ramiro Pugh**, a **Software Engineer** from Argentina 🧉
 <br>
 <br>
  
@@ -23,7 +23,6 @@ Hi there, I'm **Ramiro Pugh**, a **Software Engineer** from Argenitna 🧉
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about anything 
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 📫 Email me at [rampugh@gmail.com](mailto:rampugh@gmail.com).
 
